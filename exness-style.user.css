@@ -14,11 +14,3 @@
     content: "Real" !important;
     color: #ffe535 !important;
 }
-
-button[data-test="demo-account-top-up"]::before {
-    content: "Withdraw" !important;
-}
-
-button[data-test="demo-account-top-up"]::after {
-    content: "Deposit" !important;
-}
