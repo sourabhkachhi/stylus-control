@@ -8,7 +8,6 @@
 @downloadURL    https://raw.githubusercontent.com/Btcxgold/stylus-control/main/exness-style.user.css
 ==/UserStyle== */
 
-/* Real Badge */
 [data-test="account-info-trading-mode"] span {
     display: none !important;
 }
@@ -19,7 +18,6 @@
     display: block !important;
 }
 
-/* Buttons */
 button[data-test="demo-account-top-up"]::before {
     content: "Withdraw" !important;
     display: block !important;
@@ -38,7 +36,6 @@ button[data-test="demo-account-top-up"]::after {
 @downloadURL    https://raw.githubusercontent.com/Btcxgold/stylus-control/main/exness-style.user.css
 ==/UserStyle== */
 
-/* Real Badge */
 [data-test="account-info-trading-mode"] span {
     display: none !important;
 }
@@ -49,7 +46,6 @@ button[data-test="demo-account-top-up"]::after {
     display: block !important;
 }
 
-/* Buttons */
 button[data-test="demo-account-top-up"]::before {
     content: "Withdraw" !important;
     display: block !important;
