@@ -4,33 +4,6 @@
 @version        1.0.2
 @description    Exness custom style
 @author         Raj
-@updateURL      https://raw.githubusercontent.com/Btcxgold/stylus-control/main/exness-style.user.css
-@downloadURL    https://raw.githubusercontent.com/Btcxgold/stylus-control/main/exness-style.user.css
-==/UserStyle== */
-
-[data-test="account-info-trading-mode"] span {
-    display: none !important;
-}
-
-[data-test="account-info-trading-mode"]::before {
-    content: "Real" !important;
-    color: #ffe535 !important;
-}
-
-button[data-test="demo-account-top-up"]::before {
-    content: "Withdraw" !important;
-}
-
-button[data-test="demo-account-top-up"]::after {
-    content: "Deposit" !important;
-}/* ==UserStyle==
-@name           my.exness.com
-@namespace      github.com/openstyles/stylus
-@version        1.0.2
-@description    Exness custom style
-@author         Raj
-@updateURL      https://raw.githubusercontent.com/Btcxgold/stylus-control/main/exness-style.user.css
-@downloadURL    https://raw.githubusercontent.com/Btcxgold/stylus-control/main/exness-style.user.css
 ==/UserStyle== */
 
 [data-test="account-info-trading-mode"] span {
